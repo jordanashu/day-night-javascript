@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+h1{ text-align: center;
+    color:orange;
+}
+
+
+#b1{
+    font-size: 15px;
+    color: white;
+    background-color: rgb(184, 68, 68);
+padding: 15px;;
+
+}
+
+#b1:hover{
+    background-color: coral;
+}
+
+#b2{
+    font-size: 15px;
+    color:white;
+    background-color: darkcyan;
+    padding:15px;
+}
+
+#b2:hover{
+    background-color: black;
+}
+
